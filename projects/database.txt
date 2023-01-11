@@ -1,0 +1,4 @@
+  1  juice  70  2
+  1  juice  70  2
+  2  soap  20  0
+  3  lop  90  4
